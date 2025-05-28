@@ -1,7 +1,6 @@
 # Simple Shulkers
 
-[Mod Logo/Avatar Area: Insert your GIF of all boxes here!]
-
+![](https://github.com/eightyseven76/simpleshulkers/blob/fe145583440e1119e168ad1207e277c7528010ae/images/simpleshulkers.gif)
 ## 🌟 Quick Overview
 
 Tired of early-game inventory struggles and constant trips back to base? Simple Shulkers revolutionizes your early Minecraft adventures by introducing lightweight, wooden shulker boxes! Craftable from common Overworld resources, these portable storage solutions offer much-needed inventory expansion long before you even think about venturing into The End. Say goodbye to clutter and hello to seamless, on-the-go storage with Oak, Spruce, and Birch shulker boxes, all designed to feel like a natural extension of vanilla Minecraft.
@@ -20,7 +19,7 @@ Tired of early-game inventory struggles and constant trips back to base? Simple 
     * \[Link to Modrinth Page]
     * \[Link to GitHub Releases (if applicable)]
 * **Issue Tracker/Support**:
-    * \[Link to your GitHub Issues page]
+    * [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues)
 
 ## 📖 About Simple Shulkers: Early Game Portability!
 
@@ -44,16 +43,15 @@ Get your hands on these handy storage solutions with a straightforward two-step 
     * **Oak Shulker Shell**: Crafted using 5 Oak Logs.
     * **Spruce Shulker Shell**: Crafted using 5 Spruce Logs.
     * **Birch Shulker Shell**: Crafted using 5 Birch Logs.
-    ![Wooden Shulker Shell Recipe](https://raw.githubusercontent.com/eightyseven76/simpleshulkers/7d44707fe75bfe3b142e632c3e6f99480fd62c8b/images/oak_shulker_shell_recipe.png)
-    *(Example: Oak Shulker Shell. Ensure you have an 'oak_shulker_shell_recipe.png' in your 'images' folder or update this link!)*
-
+      
+    ![Shulker Shell Recipes](https://raw.githubusercontent.com/eightyseven76/simpleshulkers/7d44707fe75bfe3b142e632c3e6f99480fd62c8b/images/simpleshulkershellrecipes.gif)
 2.  **Craft Wooden Shulker Boxes**:
     Once you have two shulker shells of the same wood type, combine them with a standard vanilla Chest to create your wooden shulker box. The recipe is a vertical arrangement: Shell, Chest, Shell.
     * **Oak Shulker Box**: Crafted with 2 Oak Shulker Shells and 1 Chest.
     * **Spruce Shulker Box**: Crafted with 2 Spruce Shulker Shells and 1 Chest.
     * **Birch Shulker Box**: Crafted with 2 Birch Shulker Shells and 1 Chest.
-    ![Wooden Shulker Box Recipe](https://raw.githubusercontent.com/eightyseven76/simpleshulkers/7d44707fe75bfe3b142e632c3e6f99480fd62c8b/images/oak_shulker_box_recipe.png)
-    *(Example: Oak Shulker Box. Ensure you have an 'oak_shulker_box_recipe.png' in your 'images' folder or update this link!)*
+      
+    ![Wooden Shulker Box Recipe](https://raw.githubusercontent.com/eightyseven76/simpleshulkers/7d44707fe75bfe3b142e632c3e6f99480fd62c8b/images/simpleshulkersboxrecipes.gif)
 
 ### ⚙️ Functionality & Behavior
 
@@ -83,10 +81,7 @@ All new items, including the wooden shulker shells and the three types of wooden
 
 ## 📸 Visual Showcase
 
-\[Insert Screenshot 1: Wooden Shulker Boxes placed in the world, showcasing different wood types.]
-\[Insert Screenshot 2: Player's inventory showing a wooden shulker box with its tooltip open, displaying contents.]
-\[Insert Screenshot 3: A wooden shulker box being placed by a dispenser (optional, if you want to show it off).]
-\[Insert Screenshot 4: Crafting recipes in-game (if you prefer over PNGs, or in addition to).]
+![](https://github.com/eightyseven76/simpleshulkers/blob/fe145583440e1119e168ad1207e277c7528010ae/images/main.png)
 
 ## 🔧 Configuration
 
@@ -101,7 +96,7 @@ Simple Shulkers is designed to be compatible with most other mods. As this is an
 
 Encounter an issue or have a suggestion? We'd love to hear from you!
 
-* **Preferred Method: GitHub Issues**: Please report all bugs, crashes, and detailed suggestions on our \[GitHub Issues Page]([Link to your GitHub Issues page]).
+* **Preferred Method: GitHub Issues**: Please report all bugs, crashes, and detailed suggestions on our [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues).
     When reporting, please include:
     * Mod Version (e.g., simpleshulkers-1.0.0-alpha)
     * Minecraft Version (1.21.1)
@@ -109,14 +104,12 @@ Encounter an issue or have a suggestion? We'd love to hear from you!
     * A list of other mods installed (if any)
     * Clear steps to reproduce the issue
     * Any relevant crash logs (use a service like Pastebin for long logs)
-* **Discord (Optional)**: \[Link to your Discord Server if you have one for general discussion/support.]
-
 ## ❓ Frequently Asked Questions (FAQ)
 
 * **Q: Can I use this mod in my modpack?**
     * A: Yes! You are absolutely free to include Simple Shulkers in your modpacks under the terms of the MIT License. We appreciate attribution to the mod and a link back to this page, but it's not strictly required by the license.
 * **Q: Will you be adding more wood types or features?**
-    * A: This is an early alpha release! We're starting with Oak, Spruce, and Birch to establish the core functionality. We are open to feedback and suggestions for additional wood types or other features. Join our community discussions or create a suggestion on our \[GitHub Issues Page]([Link to your GitHub Issues page])!
+    * A: This is an early alpha release! We're starting with Oak, Spruce, and Birch to establish the core functionality. We are open to feedback and suggestions for additional wood types or other features. Join our community discussions or create a suggestion on our [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues).
 * **Q: Is this mod compatible with other storage mods like Refined Storage or Applied Energistics 2?**
     * A: Simple Shulkers is designed to be highly compatible. While we don't have specific integrations, they function like vanilla shulker boxes and should generally work. If you find issues, please report them!
 * **Q: Will this mod be updated for future Minecraft versions?**
@@ -126,7 +119,7 @@ Encounter an issue or have a suggestion? We'd love to hear from you!
 
 ## 📜 Changelog
 
-**Version 1.0.0-alpha (Release Date: \[Insert Actual Release Date Here])**
+**Version 1.0.0-alpha (Release Date: MAY 28th, 2025)**
 
 * **Added**:
     * Oak Shulker Box, Spruce Shulker Box, Birch Shulker Box
@@ -140,13 +133,11 @@ Encounter an issue or have a suggestion? We'd love to hear from you!
 ## ⚖️ Permissions & Licensing
 
 * **Modpack Policy**: Feel free to include this mod in your modpacks under the terms of the MIT License; attribution is appreciated!
-* **Source Code**: Available on \[Link to your GitHub Repository]
 * **License**: This mod is distributed under the MIT License.
 
 ## ❤️ Credits & Acknowledgements
 
 * **Mod Author**: EightySeven
-* **Special Thanks**: \[Anyone you want to thank - testers, inspirations, asset creators, etc.]
 
 ## 🎉 Enjoy Your Early Game Storage!
 
