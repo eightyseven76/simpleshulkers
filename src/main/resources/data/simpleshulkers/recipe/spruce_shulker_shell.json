@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "result": {
+    "id": "simpleshulkers:spruce_shulker_shell",
+    "count": 1
+  }
+} 

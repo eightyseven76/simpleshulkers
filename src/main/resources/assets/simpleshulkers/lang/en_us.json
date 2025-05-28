@@ -1,0 +1,17 @@
+{
+  "creativetab.simpleshulkers.simple_shulkers_tab": "Simple Shulkers",
+
+  "block.simpleshulkers.oak_shulker_box": "Oak Shulker Box",
+  "block.simpleshulkers.spruce_shulker_box": "Spruce Shulker Box",
+  "block.simpleshulkers.birch_shulker_box": "Birch Shulker Box",
+
+  "container.simpleshulkers.birch_shulker_box": "Birch Shulker Box",
+  "container.simpleshulkers.oak_shulker_box": "Oak Shulker Box",
+  "container.simpleshulkers.spruce_shulker_box": "Spruce Shulker Box",
+
+  "item.simpleshulkers.oak_shulker_shell": "Oak Shulker Shell",
+  "item.simpleshulkers.spruce_shulker_shell": "Spruce Shulker Shell",
+  "item.simpleshulkers.birch_shulker_shell": "Birch Shulker Shell",
+
+  "tooltip.simpleshulkers.empty": ""
+}

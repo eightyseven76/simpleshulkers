@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "simpleshulkers:spruce_shulker_shell"
+    },
+    "b": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "id": "simpleshulkers:spruce_shulker_box",
+    "count": 1
+  }
+} 
