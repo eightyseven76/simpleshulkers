@@ -117,6 +117,18 @@ Encounter an issue or have a suggestion? We'd love to hear from you!
 * **Q: Why don't the wooden shulker boxes offer more inventory slots?**
     * A: The 9-slot design is intentional to provide a significant early-game boost without replacing vanilla shulker boxes, maintaining game progression.
 
+## 💡 Planned Features
+
+We have lots of ideas for the future of Simple Shulkers! Here's a glimpse of what we're considering:
+
+* **More Wood Types**: Expanding the collection to include shulker boxes for all vanilla wood types (Dark Oak, Acacia, Jungle, Cherry, Mangrove, Bamboo).
+* **Dyeable Wooden Shulkers**: Adding the ability to dye wooden shulker boxes for better organization and personalization, just like vanilla ones.
+* **Potential Upgrades**: Exploring balanced upgrade paths for wooden shulkers (e.g., slightly increased capacity or minor utility features) while keeping them distinct from End-game shulkers.
+* **Enhanced Configuration**: Implementing more detailed server-side configuration options for pack makers, such as tweaking recipes, capacities, or which shulkers are enabled.
+* **Visual Polish**: Continuously improving models, textures, and animations for a premium feel.
+
+Have an idea? Let us know on our [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues)!
+
 ## 📜 Changelog
 
 **Version 1.0.0-alpha (Release Date: MAY 28th, 2025)**
