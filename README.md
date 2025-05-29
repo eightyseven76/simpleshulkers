@@ -16,7 +16,7 @@ Tired of early-game inventory struggles and constant trips back to base? Simple 
 * **Client/Server**: Works on both client and server. Required on both for multiplayer.
 * **Download Links**:
     * [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-shulkers)
-    * [Modrinth]
+    * [Modrinth](https://modrinth.com/mod/simple-shulkers)
 * **Issue Tracker/Support**:
     * [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues)
 
