@@ -8,7 +8,7 @@ Tired of early-game inventory struggles and constant trips back to base? Simple 
 ## 📋 Key Information
 
 * **Mod Author**: EightySeven
-* **Mod Version**: 1.0.0-alpha
+* **Mod Version**: 1.0.1+neoforge
 * **Supported Minecraft Version**: 1.21.1
 * **Required Mod Loader**: NeoForge 21.1.172 (or compatible versions)
 * **License**: MIT License
@@ -97,7 +97,7 @@ Encounter an issue or have a suggestion? We'd love to hear from you!
 
 * **Preferred Method: GitHub Issues**: Please report all bugs, crashes, and detailed suggestions on our [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues).
     When reporting, please include:
-    * Mod Version (e.g., simpleshulkers-1.0.0-alpha)
+    * Mod Version (e.g., simpleshulkers-1.0.1+neoforge)
     * Minecraft Version (1.21.1)
     * NeoForge Version (21.1.172)
     * A list of other mods installed (if any)
@@ -129,7 +129,16 @@ We have lots of ideas for the future of Simple Shulkers! Here's a glimpse of wha
 Have an idea? Let us know on our [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues)!
 
 ## 📜 Changelog
+**Version 1.0.1+neoforg (Release Date: MAY 30th, 2025)**
+* **Added**:
+    * Piston compatibility.
+ 
+* **Fixes**:
+    * Fixed some piston/dispenser bugs.
+    * Now works almost similar to vanilla shulker boxes.
 
+
+Fixed some piston/dispenser bugs.
 **Version 1.0.0-alpha (Release Date: MAY 28th, 2025)**
 
 * **Added**:
