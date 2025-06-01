@@ -45,7 +45,7 @@ Get your hands on these handy storage solutions with a straightforward two-step 
     * **Acacia Shulker Shell**: Crafted using 5 Acacia Logs.
     * **Jungle Shulker Shell**: Crafted using 5 Jungle Logs.
       
-    ![Shulker Shell Recipes](https://raw.githubusercontent.com/eightyseven76/simpleshulkers/7d44707fe75bfe3b142e632c3e6f99480fd62c8b/images/simpleshulkershellrecipesv2.gif)
+    ![Shulker Shell Recipes](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/simpleshulkershellrecipesv2.gif)
 2.  **Craft Wooden Shulker Boxes**:
     Once you have two shulker shells of the same wood type, combine them with a standard vanilla Chest to create your wooden shulker box. The recipe is a vertical arrangement: Shell, Chest, Shell.
     * **Oak Shulker Box**: Crafted with 2 Oak Shulker Shells and 1 Chest.
@@ -54,7 +54,7 @@ Get your hands on these handy storage solutions with a straightforward two-step 
     * **Acacia Shulker Box**: Crafted with 2 Acacia Shulker Shells and 1 Chest.
     * **Jungle Shulker Box**: Crafted with 2 Jungle Shulker Shells and 1 Chest.
       
-    ![Wooden Shulker Box Recipe](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/simpleshulkershellrecipesv2.gif)
+    ![Wooden Shulker Box Recipe](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/simpleshulkerboxrecipesv2.gif)
 
 ### ⚙️ Functionality & Behavior
 
