@@ -54,7 +54,7 @@ Get your hands on these handy storage solutions with a straightforward two-step 
     * **Acacia Shulker Box**: Crafted with 2 Acacia Shulker Shells and 1 Chest.
     * **Jungle Shulker Box**: Crafted with 2 Jungle Shulker Shells and 1 Chest.
       
-    ![Wooden Shulker Box Recipe](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/simpleshulkerboxrecipesv2.gif)
+    ![Wooden Shulker Box Recipe](https://github.com/eightyseven76/simpleshulkers/blob/3bf1d4d48329e3339b4af43d9b1a66ae6d57bc3a/images/simpleshulkersboxrecipesv2.gif)
 
 ### ⚙️ Functionality & Behavior
 
