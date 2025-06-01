@@ -1,6 +1,6 @@
 # Simple Shulkers
 
-![](https://github.com/eightyseven76/simpleshulkers/blob/fe145583440e1119e168ad1207e277c7528010ae/images/simpleshulkersv2.gif)
+![](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/simpleshulkersv2.gif)
 ## 🌟 Quick Overview
 
 Tired of early-game inventory struggles and constant trips back to base? Simple Shulkers revolutionizes your early Minecraft adventures by introducing lightweight, wooden shulker boxes! Craftable from common Overworld resources, these portable storage solutions offer much-needed inventory expansion long before you even think about venturing into The End. Say goodbye to clutter and hello to seamless, on-the-go storage with Oak, Spruce, and Birch shulker boxes, all designed to feel like a natural extension of vanilla Minecraft.
@@ -54,7 +54,7 @@ Get your hands on these handy storage solutions with a straightforward two-step 
     * **Acacia Shulker Box**: Crafted with 2 Acacia Shulker Shells and 1 Chest.
     * **Jungle Shulker Box**: Crafted with 2 Jungle Shulker Shells and 1 Chest.
       
-    ![Wooden Shulker Box Recipe](https://raw.githubusercontent.com/eightyseven76/simpleshulkers/7d44707fe75bfe3b142e632c3e6f99480fd62c8b/images/simpleshulkersboxrecipesv2.gif)
+    ![Wooden Shulker Box Recipe](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/simpleshulkershellrecipesv2.gif)
 
 ### ⚙️ Functionality & Behavior
 
@@ -84,7 +84,7 @@ All new items, including the wooden shulker shells and the three types of wooden
 
 ## 📸 Visual Showcase
 
-![](https://github.com/eightyseven76/simpleshulkers/blob/fe145583440e1119e168ad1207e277c7528010ae/images/mainv2.png)
+![](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/mainv2.png)
 
 ## 🔧 Configuration
 
