@@ -1,6 +1,6 @@
 # Simple Shulkers
 
-![](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/simpleshulkersv2.gif)
+![](https://github.com/eightyseven76/simpleshulkers/blob/015709a2ac560ece99f978b13a50918f3fbe746a/images/shulkerboxes.gif)
 ## 🌟 Quick Overview
 
 Tired of early-game inventory struggles and constant trips back to base? Simple Shulkers revolutionizes your early Minecraft adventures by introducing lightweight, wooden shulker boxes! Craftable from common Overworld resources, these portable storage solutions offer much-needed inventory expansion long before you even think about venturing into The End. Say goodbye to clutter and hello to seamless, on-the-go storage with Oak, Spruce, and Birch shulker boxes, all designed to feel like a natural extension of vanilla Minecraft.
@@ -38,23 +38,29 @@ Simple Shulkers grants the wish of early-game shulker box access! This mod intro
 Get your hands on these handy storage solutions with a straightforward two-step crafting process:
 
 1.  **Craft Wooden Shulker Shells**:
-    You'll first need to craft specialized wooden shulker shells from their respective logs. Each recipe uses 5 logs in a 'U' shape with an extra log on each side of the top row.
-    * **Oak Shulker Shell**: Crafted using 5 Oak Logs.
-    * **Spruce Shulker Shell**: Crafted using 5 Spruce Logs.
-    * **Birch Shulker Shell**: Crafted using 5 Birch Logs.
-    * **Acacia Shulker Shell**: Crafted using 5 Acacia Logs.
-    * **Jungle Shulker Shell**: Crafted using 5 Jungle Logs.
+    You'll first need to craft specialized wooden shulker shells from their respective logs. Each recipe uses 5 logs in a upside down 'U' shape with an extra log on each side of the top row.
+    * **Oak Shulker Shell**: Crafted using 5 Stripped Oak Logs.
+    * **Spruce Shulker Shell**: Crafted using 5 Stripped Spruce Logs.
+    * **Birch Shulker Shell**: Crafted using 5 Stripped Birch Logs.
+    * **Acacia Shulker Shell**: Crafted using 5 Stripped Acacia Logs.
+    * **Jungle Shulker Shell**: Crafted using 5 Stripped Jungle Logs.
+    * **Acacia Shulker Shell**: Crafted using 5 Stripped Dark Oak Logs.
+    * **Jungle Shulker Shell**: Crafted using 5 Stripped Mangrove Logs.
+    * **Jungle Shulker Shell**: Crafted using 5 Stripped Cherry Logs.
       
-    ![Shulker Shell Recipes](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/simpleshulkershellrecipesv2.gif)
-2.  **Craft Wooden Shulker Boxes**:
+    ![Shulker Shell Recipes](https://github.com/eightyseven76/simpleshulkers/blob/015709a2ac560ece99f978b13a50918f3fbe746a/images/shulkershellrecipes.gif)
+3.  **Craft Wooden Shulker Boxes**:
     Once you have two shulker shells of the same wood type, combine them with a standard vanilla Chest to create your wooden shulker box. The recipe is a vertical arrangement: Shell, Chest, Shell.
     * **Oak Shulker Box**: Crafted with 2 Oak Shulker Shells and 1 Chest.
     * **Spruce Shulker Box**: Crafted with 2 Spruce Shulker Shells and 1 Chest.
     * **Birch Shulker Box**: Crafted with 2 Birch Shulker Shells and 1 Chest.
     * **Acacia Shulker Box**: Crafted with 2 Acacia Shulker Shells and 1 Chest.
     * **Jungle Shulker Box**: Crafted with 2 Jungle Shulker Shells and 1 Chest.
+    * **Dark Oak Shulker Box**: Crafted with 2 Dark Oa Shulker Shells and 1 Chest.
+    * **Mangrove Shulker Box**: Crafted with 2 Mangrove Shulker Shells and 1 Chest.
+    * **Cherry Shulker Box**: Crafted with 2 Cherry Shulker Shells and 1 Chest.
       
-    ![Wooden Shulker Box Recipe](https://github.com/eightyseven76/simpleshulkers/blob/3bf1d4d48329e3339b4af43d9b1a66ae6d57bc3a/images/simpleshulkersboxrecipesv2.gif)
+    ![Wooden Shulker Box Recipe](https://github.com/eightyseven76/simpleshulkers/blob/015709a2ac560ece99f978b13a50918f3fbe746a/images/shulkerboxrecipes.gif)
 
 ### ⚙️ Functionality & Behavior
 
@@ -74,7 +80,7 @@ Our wooden shulker boxes are designed to be intuitive and useful:
 
 All new items, including the wooden shulker shells and the three types of wooden shulker boxes, are conveniently located under a dedicated "Simple Shulkers" tab in the Creative inventory for easy access.
 
-## 🚀 Getting Started: Installation
+## 🚀 Getting Started: Installation (NeoForge Example)
 
 1.  Ensure Minecraft 1.21.1 is installed.
 2.  **Install NeoForge**: Download and install NeoForge version 21.1.172 (or a compatible version for Minecraft 1.21.1). You can find installation guides on the official NeoForge website.
@@ -88,7 +94,7 @@ All new items, including the wooden shulker shells and the three types of wooden
 
 ## 🔧 Configuration
 
-Currently, Simple Shulkers (v1.0.1) does not have any specific *user-facing* configuration options, though the code includes flags to enable/disable each box type. Future updates may introduce configurable settings based on community feedback.
+Currently, Simple Shulkers (v1.0.3) does not have any specific *user-facing* configuration options, though the code includes flags to enable/disable each box type. Future updates may introduce configurable settings based on community feedback.
 
 ## 🤝 Compatibility
 
@@ -112,7 +118,7 @@ Encounter an issue or have a suggestion? We'd love to hear from you!
 * **Q: Can I use this mod in my modpack?**
     * A: Yes! You are absolutely free to include Simple Shulkers in your modpacks under the terms of the MIT License. We appreciate attribution to the mod and a link back to this page, but it's not strictly required by the license.
 * **Q: Will you be adding more wood types or features?**
-    * A: We've already added Acacia and Jungle wood types in the latest update! We are always open to feedback and suggestions for additional wood types or other features. Join our community discussions or create a suggestion on our [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues).
+    * A: We've already added Dark Oak, Mangrove and Cherry wood types in the latest update! We are always open to feedback and suggestions for additional wood types or other features. Join our community discussions or create a suggestion on our [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues).
 * **Q: Is this mod compatible with other storage mods like Refined Storage or Applied Energistics 2?**
     * A: Simple Shulkers is designed to be highly compatible. While we don't have specific integrations, they function like vanilla shulker boxes and should generally work. If you find issues, please report them!
 * **Q: Will this mod be updated for future Minecraft versions?**
@@ -124,7 +130,7 @@ Encounter an issue or have a suggestion? We'd love to hear from you!
 
 We have lots of ideas for the future of Simple Shulkers! Here's a glimpse of what we're considering:
 
-* **More Wood Types**: Expanding the collection to include shulker boxes for all vanilla wood types (Dark Oak, Cherry, Mangrove, Bamboo).
+* **More Wood Types**: Expanding the collection to include shulker boxes for all vanilla wood types (Crimson, Warped etc.).
 * **Dyeable Wooden Shulkers**: Adding the ability to dye wooden shulker boxes for better organization and personalization, just like vanilla ones.
 * **Potential Upgrades**: Exploring balanced upgrade paths for wooden shulkers (e.g., slightly increased capacity or minor utility features) while keeping them distinct from End-game shulkers.
 * **Enhanced Configuration**: Implementing more detailed server-side configuration options for pack makers, such as tweaking recipes, capacities, or which shulkers are enabled.
@@ -133,7 +139,17 @@ We have lots of ideas for the future of Simple Shulkers! Here's a glimpse of wha
 Have an idea? Let us know on our [GitHub Issues page](https://github.com/eightyseven76/simpleshulkers/issues)!
 
 ## 📜 Changelog
-**Version 1.0.2 (Release Date: June 1st, 2025)**
+**Version 1.0.3 (Release Date: JUNE 18th, 2025)**
+* **Added**:
+    * Dark Oak Shulker Box, Dark Oak Shulker Shell
+    * Mangrove Shulker Box, Mangrove Shulker Shell
+    * Cherry Shulker Box, Cherry Shulker Shell
+ 
+* **Changes**:
+  * Updated the recipe to use stripped logs instead of regular logs for crafting shulker shells.
+  * Adjusted the textures of all shulker shell items and shulker boxes to reflect this change.
+
+**Version 1.0.2 (Release Date: JUNE 1st, 2025)**
 * **Added**:
     * Acacia Shulker Box, Acacia Shulker Shell
     * Jungle Shulker Box, Jungle Shulker Shell
