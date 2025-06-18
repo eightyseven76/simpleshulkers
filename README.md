@@ -88,10 +88,6 @@ All new items, including the wooden shulker shells and the three types of wooden
 4.  **Install the Mod**: Place the downloaded .jar file directly into your `.minecraft/mods` folder. If the mods folder doesn't exist, simply create it.
 5.  **Launch Minecraft**: Select your NeoForge profile in the Minecraft Launcher and hit Play!
 
-## 📸 Visual Showcase
-
-![](https://github.com/eightyseven76/simpleshulkers/blob/de145f9930bd1b646f12852e7cc98be2fd0b14c4/images/mainv2.png)
-
 ## 🔧 Configuration
 
 Currently, Simple Shulkers (v1.0.3) does not have any specific *user-facing* configuration options, though the code includes flags to enable/disable each box type. Future updates may introduce configurable settings based on community feedback.
